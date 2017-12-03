@@ -4,8 +4,8 @@
 
 ## Attributions
 
-[Circuijs1](https://github.com/sharpie7/circuitjs1) by Paul Falstad and adapted by Iain Sharp 
+[Circuitjs1](https://github.com/sharpie7/circuitjs1) by Paul Falstad and adapted by Iain Sharp 
 
 
 ## For more projects by Praecantatio Labs
-insert logo here with link to website
+[![Praecantatio Labs](praecantatio_labs.png)](http://praecantatio.ai)
