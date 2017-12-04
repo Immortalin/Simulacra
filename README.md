@@ -1,6 +1,9 @@
 # Simulacra
 
-**Simple and Easy to user desktop circuit simulator**
+**Simple and Easy To Use Desktop Circuit Simulator**
+
+
+**[Download Now](https://github.com/Immortalin/Simulacra/releases)**
 
 ## Attributions
 
