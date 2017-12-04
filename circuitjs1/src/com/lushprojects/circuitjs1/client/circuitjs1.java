@@ -85,8 +85,12 @@ public class circuitjs1 implements EntryPoint {
       loadLocale();
   }
 
+  // NOTE: SOFTWARE ENGINEERING DARKE ARTS. HIC SUNT DRACONES!! Using Object.defineProperty in preload and inline script to 
+  // address this bug: https://github.com/electron/electron/issues/11053 doesn't stick . No idea why. 
+  // Last resort had to hack core. Original source code commented out.
   native String language()  /*-{
-	return navigator.languages ? navigator.languages[0] : (navigator.language || navigator.userLanguage) ;  
+	//return navigator.languages ? navigator.languages[0] : (navigator.language || navigator.userLanguage) ;  
+	return "en-US" ;
   }-*/;
 
   void loadLocale() {
