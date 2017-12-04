@@ -1,21 +1,19 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "simulacra_by_praecantatio_labs",
+  "version": "0.0.1",
+  "description": "Simple and Ideal Circuit Simulation",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "eda",
+    "electronics",
+    "circuits",
+    "education"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Praecantatio Labs",
   "devDependencies": {
     "electron": "~1.7.8"
   }
